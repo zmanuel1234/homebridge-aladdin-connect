@@ -81,7 +81,10 @@
   "layout": [
     "name",
     "username",
-    { "key": "password", "type": "password" },
+    {
+      "key": "password",
+      "type": "password"
+    },
     {
       "type": "section",
       "title": "Advanced Settings",
